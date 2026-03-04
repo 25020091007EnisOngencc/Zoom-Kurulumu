@@ -25,4 +25,4 @@ Bu rehberdeki adımlar ve `ZOOM.pptx` içerisindeki yönergeler, kesintisiz bir 
 * **Depolama:** 1TB 
 
 ---
-**Geliştirici:** [Enis Ongencc](https://github.com/25020091007EnisOngencc)
+**Geliştirici:** [Enis Ongenc](https://github.com/25020091007EnisOngencc)
